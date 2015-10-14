@@ -154,6 +154,11 @@ section:last-child {
 .keySkills ul li {
 	margin-bottom: 3px;
 }
+.responsibilities{
+   margin-bottom: 10px;
+   font-size:1em;
+   margin-left: 8%;
+}
 
 @media all and (min-width: 602px) and (max-width: 800px) {
 	#headshot {
